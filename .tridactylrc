@@ -5,7 +5,7 @@ set update.nag true
 set update.nagwait 7
 set update.lastnaggedversion 1.14.0
 set update.checkintervalsecs 86400
-set theme gruv
+
 
 " Binds
 unbind <C-F>
