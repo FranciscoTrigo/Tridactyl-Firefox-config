@@ -161,9 +161,6 @@ bind zI zoom 3
 bind zO zoom 0.3
 bind . repeat
 
-bind reddit.com gu urlparent 4
-bind ;c hint -Jc [class*="expand"],[class*="togg"],[class="comment_folder"]
-bindurl https://www.reddit.com gu urlparent 3
 
 " Autocmds
 autocmd DocStart 192.168.1.20 mode ignore
